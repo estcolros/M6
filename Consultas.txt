@@ -1,0 +1,13 @@
+
+1. All: https://restcountries.eu/rest/v2/all
+2. SpainName: https://restcountries.eu/rest/v2/name/Spain
+3. SpainFullText: https://restcountries.eu/rest/v2/name/Spain?fullText=true
+4. ESPAlpha :https://restcountries.eu/rest/v2/alpha/ESP
+5. Tres Codes: https://restcountries.eu/rest/v2/alpha?codes=ESP;USA;JPN;
+6. Currency: https://restcountries.eu/rest/v2/currency/EUR;
+7. Lang Ca: https://restcountries.eu/rest/v2/lang/ca;
+8. Capital AND: https://restcountries.eu/rest/v2/capital/AND;
+9. Calling Code AND: https://restcountries.eu/rest/v2/callingcode/376;
+10. Region: https://restcountries.eu/rest/v2/region/Europe; 
+11. RegionalBloc:  https://restcountries.eu/rest/v2/regionalbloc/CARICOM;
+12. Filter: https://restcountries.eu/rest/v2/all?fields=name;capital;currencies
